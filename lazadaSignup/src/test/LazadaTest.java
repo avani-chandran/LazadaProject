@@ -118,7 +118,7 @@ public class LazadaTest {
          }
    } 
   
- 
+// @test
 //	public void signUp() throws InterruptedException {		
 //		WebElement fullnameField = driver.findElement(By.xpath("//input[@placeholder='First Last']"));
 //		WebElement passwordField = driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/input[1]"));
